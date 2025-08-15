@@ -8,7 +8,6 @@ Behavioral Pattern:
             i.Subject:
                 The subject maintains a list of observers (subscribers or listeners).
                 It Provides methods to register and unregister observers dynamically and defines a method to notify observers of changes in its state.
-        
             ii.Observer:
                 Observer defines an interface with an update method that concrete observers must implement and ensures a common or consistent way for concrete observers to receive updates from the subject. 
             iii. ConcreteSubject:
