@@ -18,7 +18,7 @@ Behavioral Pattern:
 
         
                 
-      <img width="1242" height="544" alt="image" src="https://github.com/user-attachments/assets/52a015f9-e464-4fd3-a6aa-35a4e6c45421" />
+<img width="1242" height="544" alt="image" src="https://github.com/user-attachments/assets/52a015f9-e464-4fd3-a6aa-35a4e6c45421" />
 
 Code: 
 import java.util.ArrayList;
